@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, estou cursando análise e desenvolvimento de sistema com previsão de término para 2025. Tenho como foco back-end<br>usando a linguagem de programação Java.<br>Atualmente já estudei o básico de:<br>- Java<br>- Java POO<br>- Git e Github<br><br>Estou estudando atualmente o básico de:<br>- SQL<br>
+Olá, estou cursando análise e desenvolvimento de sistema com previsão de término para 2025. Tenho como foco back-end<br>usando a linguagem de programação Java.<br>Atualmente já estudei o básico de:<br>- Java<br>- Java POO<br>- Git e Github<br>- Bando de Dados SQL (MySQL)<br>Estou estudando atualmente o básico de:<br>- APIS com Node.js<br>
 
 
 ## 🌐 Socials:
