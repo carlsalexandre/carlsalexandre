@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, estou cursando análise e desenvolvimento de sistema (3º Semestre) com previsão de término para 2025. Tenho como foco dev back-end<br>usando a linguagem de programação Java.<br>Atualmente já estudei o básico de:<br>- Java<br>- Java POO<br>- Git e Github<br>- SQL (MySQL)<br>- NoSQL (MongoDB)
+Olá, sou uma pessoa calma, ama estudar e terminei a faculdade de Análise e Desenvolvimento de Sistemas recentemente. Tenho como foco dev back-end<br>usando a linguagem de programação Java.<br>Atualmente já estudei o básico de:<br>- Java<br>- Java POO<br>- Git e Github<br>- SQL (MySQL)<br>- NoSQL (MongoDB)
 
 
 ## 🌐 Socials:
